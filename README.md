@@ -1,6 +1,3 @@
-# Ali Sultani Personal Portfolio
-Welcome to my personal portfolio! This repository showcases my skills, projects, and achievements as a software developer.
-
 ## About Me
 I'm Ali Sultani, a passionate and dedicated software developer with a strong background in web development. I have experience working with a variety of technologies, including HTML, CSS, JavaScript, and frameworks like React and Node.js. I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
 
